@@ -1,0 +1,10 @@
+{
+    "name": "Tab Tamer",
+    "version": "1.0.0",
+    "description": "Study companion for productivity",
+    "manifest_version": 3,
+    "author": "Bowen Cui",
+    "action":{
+        "default_popup": "index.html"
+    }
+}
